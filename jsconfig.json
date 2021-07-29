@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "."
+    "baseUrl": "./index.html"
   },
   "include": ["src"]
 }
